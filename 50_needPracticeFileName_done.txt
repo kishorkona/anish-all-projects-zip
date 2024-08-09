@@ -1,0 +1,12 @@
+
+1|skip-counting-patterns-with-tables
+1|addition-and-subtraction-ways-to-make-a-number
+2|related-addition-facts
+1|addition-and-subtraction-facts-up-to-10
+2|solve-inequalities-using-addition-and-subtraction-shortcuts
+1|word-problems-with-both-addends-unknown-up-to-20
+1|comparison-word-problems-up-to-10-how-many-more-or-fewer
+1|wide-and-narrow
+2|match-analog-clocks-and-times
+1|subtract-doubles
+2|guess-the-number
