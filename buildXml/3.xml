@@ -257,7 +257,7 @@
 	    <Grade>3</Grade>
 	    <SectionId>F</SectionId>
 	    <SectionName>Estimate sums and differences</SectionName>
-	    <Enabled>3</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>2</SubSectionId>
 	    <SubSectionName>F.2 Estimate sums and differences using compatible numbers</SubSectionName>
 	    <UrlKey>estimate-sums-and-differences-using-compatible-numbers</UrlKey>
@@ -1556,7 +1556,7 @@
 	    <Grade>3</Grade>
 	    <SectionId>T</SectionId>
 	    <SectionName>Two-digit multiplication</SectionName>
-	    <Enabled>1</Enabled>
+	    <Enabled>0</Enabled>
 	    <SubSectionId>5</SubSectionId>
 	    <SubSectionName>T.5 Multiply one-digit numbers by two-digit numbers using area models II</SubSectionName>
 	    <UrlKey>multiply-one-digit-numbers-by-two-digit-numbers-using-area-models-ii</UrlKey>
@@ -2156,10 +2156,4 @@
 	    <UrlKey>find-two-numbers-based-on-sum-difference-product-and-quotient</UrlKey>
 		<ResultsUrl>2000001796</ResultsUrl>
 	</Question>
-
-
-
 </Questions>
-
-
-
