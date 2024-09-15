@@ -789,7 +789,7 @@
 		<Grade>5</Grade>
 		<SectionId>UU</SectionId>
 		<SectionName>Volume</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>7</SubSectionId>
 		<SubSectionName>UU.7 Compare volumes and dimensions of rectangular prisms: word problems</SubSectionName>
 		<UrlKey>compare-volumes-and-dimensions-of-rectangular-prisms-word-problems</UrlKey>
