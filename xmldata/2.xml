@@ -437,7 +437,7 @@
 		<Grade>5</Grade>
 		<SectionId>OO</SectionId>
 		<SectionName>Statistics</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>10</SubSectionId>
 		<SubSectionName>OO.10 Interpret charts and graphs to find the median
 		</SubSectionName>
