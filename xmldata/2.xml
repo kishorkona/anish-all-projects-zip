@@ -204,7 +204,7 @@
 		<Grade>5</Grade>
 		<SectionId>HH</SectionId>
 		<SectionName>Money</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>3</SubSectionId>
 		<SubSectionName>HH.3 Add and subtract money: multi-step word problems
 		</SubSectionName>
