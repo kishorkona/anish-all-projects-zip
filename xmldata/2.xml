@@ -171,7 +171,7 @@
 		<Grade>5</Grade>
 		<SectionId>FF</SectionId>
 		<SectionName>Divide decimals</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>8</SubSectionId>
 		<SubSectionName>FF.9 Divide by decimals</SubSectionName>
 		<UrlKey>divide-by-decimals</UrlKey>
