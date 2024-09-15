@@ -2825,7 +2825,7 @@
 		<Grade>6</Grade>
 		<SectionId>HH</SectionId>
 		<SectionName>Surface area and volume</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>3</SubSectionId>
 		<SubSectionName>HH.3 Volume of cubes and rectangular prisms: word problems</SubSectionName>
 		<UrlKey>volume-of-cubes-and-rectangular-prisms-word-problems</UrlKey>
