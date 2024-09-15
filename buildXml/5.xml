@@ -1339,7 +1339,7 @@
 		<Grade>5</Grade>
 		<SectionId>M</SectionId>
 		<SectionName>Add and subtract mixed numbers</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>8</SubSectionId>
 		<SubSectionName>M.8 Complete addition and subtraction sentences with mixed numbers</SubSectionName>
 		<UrlKey>complete-addition-and-subtraction-sentences-with-mixed-numbers</UrlKey>
