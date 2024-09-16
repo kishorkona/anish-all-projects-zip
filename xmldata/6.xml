@@ -901,7 +901,7 @@
 		<Grade>6</Grade>
 		<SectionId>S</SectionId>
 		<SectionName>Ratios and rates</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>11</SubSectionId>
 		<SubSectionName>S.11 Calculate speed, distance, or time: word problems</SubSectionName>
 		<UrlKey>calculate-speed-distance-or-time-word-problems</UrlKey>
@@ -949,7 +949,7 @@
 		<Grade>6</Grade>
 		<SectionId>S</SectionId>
 		<SectionName>Ratios and rates</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>5</SubSectionId>
 		<SubSectionName>S.5 Identify equivalent ratios</SubSectionName>
 		<UrlKey>identify-equivalent-ratios</UrlKey>
@@ -965,7 +965,7 @@
 		<Grade>6</Grade>
 		<SectionId>S</SectionId>
 		<SectionName>Ratios and rates</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>9</SubSectionId>
 		<SubSectionName>S.9 Unit rates</SubSectionName>
 		<UrlKey>unit-rates</UrlKey>
