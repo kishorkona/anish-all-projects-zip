@@ -885,7 +885,7 @@
 		<Grade>6</Grade>
 		<SectionId>S</SectionId>
 		<SectionName>Ratios and rates</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>1</SubSectionId>
 		<SubSectionName>S.1 Write a ratio</SubSectionName>
 		<UrlKey>write-a-ratio</UrlKey>
@@ -933,7 +933,7 @@
 		<Grade>6</Grade>
 		<SectionId>S</SectionId>
 		<SectionName>Ratios and rates</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>3</SubSectionId>
 		<SubSectionName>S.3 Write a ratio: word problems</SubSectionName>
 		<UrlKey>write-a-ratio-word-problems</UrlKey>
@@ -949,7 +949,7 @@
 		<Grade>6</Grade>
 		<SectionId>S</SectionId>
 		<SectionName>Ratios and rates</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>7</SubSectionId>
 		<SubSectionName> S.7 Ratio tables</SubSectionName>
 		<UrlKey>ratio-tables</UrlKey>
