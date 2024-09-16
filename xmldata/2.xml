@@ -454,7 +454,7 @@
 		<Grade>5</Grade>
 		<SectionId>OO</SectionId>
 		<SectionName>Statistics</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>4</SubSectionId>
 		<SubSectionName>OO.4 Find the range</SubSectionName>
 		<UrlKey>find-the-range</UrlKey>
@@ -470,7 +470,7 @@
 		<Grade>5</Grade>
 		<SectionId>OO</SectionId>
 		<SectionName>Statistics</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>8</SubSectionId>
 		<SubSectionName>OO.8 Interpret charts and graphs to find the mode
 		</SubSectionName>
