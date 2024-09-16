@@ -2370,7 +2370,7 @@
 		<Grade>3</Grade>
 		<SectionId>DD</SectionId>
 		<SectionName>Understand fractions</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>10</SubSectionId>
 		<SubSectionName>DD.10 Match unit fractions to models</SubSectionName>
 		<UrlKey>match-unit-fractions-to-models</UrlKey>
