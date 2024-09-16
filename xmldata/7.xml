@@ -293,7 +293,7 @@
 		<Grade>6</Grade>
 		<SectionId>GG</SectionId>
 		<SectionName>Perimeter and area</SectionName>
-		<Enabled>0-</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>12</SubSectionId>
 		<SubSectionName>GG.12 Area of compound figures with triangles</SubSectionName>
 		<UrlKey>area-of-compound-figures-with-triangles</UrlKey>
@@ -917,7 +917,7 @@
 		<Grade>6</Grade>
 		<SectionId>S</SectionId>
 		<SectionName>Ratios and rates</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>16</SubSectionId>
 		<SubSectionName>S.16 Ratios and rates: word problems</SubSectionName>
 		<UrlKey>ratios-and-rates-word-problems</UrlKey>
