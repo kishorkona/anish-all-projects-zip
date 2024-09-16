@@ -1093,7 +1093,7 @@
 		<Grade>6</Grade>
 		<SectionId>M</SectionId>
 		<SectionName>Divide fractions</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>7</SubSectionId>
 		<SubSectionName>M.7 Divide fractions</SubSectionName>
 		<UrlKey>divide-fractions</UrlKey>
@@ -2649,7 +2649,7 @@
 		<Grade>6</Grade>
 		<SectionId>GG</SectionId>
 		<SectionName>Perimeter and area</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>4</SubSectionId>
 		<SubSectionName>GG.4 Area of parallelograms</SubSectionName>
 		<UrlKey>area-of-parallelograms</UrlKey>
@@ -2693,7 +2693,7 @@
 		<Grade>6</Grade>
 		<SectionId>GG</SectionId>
 		<SectionName>Perimeter and area</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>8</SubSectionId>
 		<SubSectionName>GG.8 Area of trapezoids</SubSectionName>
 		<UrlKey>area-of-a-trapezoid</UrlKey>
@@ -2946,7 +2946,7 @@
 		<Grade>6</Grade>
 		<SectionId>II</SectionId>
 		<SectionName>Data and graphs</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>6</SubSectionId>
 		<SubSectionName>II.6 Create relative frequency tables</SubSectionName>
 		<UrlKey>create-relative-frequency-tables</UrlKey>
@@ -3034,7 +3034,7 @@
 		<Grade>6</Grade>
 		<SectionId>II</SectionId>
 		<SectionName>Data and graphs</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>14</SubSectionId>
 		<SubSectionName>II.14 Interpret circle graphs</SubSectionName>
 		<UrlKey>interpret-circle-graphs</UrlKey>
@@ -3111,7 +3111,7 @@
 		<Grade>6</Grade>
 		<SectionId>II</SectionId>
 		<SectionName>Data and graphs</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>21</SubSectionId>
 		<SubSectionName>II.21 Box plots</SubSectionName>
 		<UrlKey>box-plots</UrlKey>
