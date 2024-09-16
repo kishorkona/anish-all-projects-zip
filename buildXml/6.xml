@@ -1126,7 +1126,7 @@
 		<Grade>6</Grade>
 		<SectionId>M</SectionId>
 		<SectionName>Divide fractions</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>10</SubSectionId>
 		<SubSectionName>M.10 Divide fractions and mixed numbers</SubSectionName>
 		<UrlKey>divide-fractions-and-mixed-numbers</UrlKey>
@@ -1709,7 +1709,7 @@
 		<Grade>6</Grade>
 		<SectionId>S</SectionId>
 		<SectionName>Ratios and rates</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>1</SubSectionId>
 		<SubSectionName>S.1 Write a ratio</SubSectionName>
 		<UrlKey>write-a-ratio</UrlKey>
@@ -1720,7 +1720,7 @@
 		<Grade>6</Grade>
 		<SectionId>S</SectionId>
 		<SectionName>Ratios and rates</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>2</SubSectionId>
 		<SubSectionName>S.2 Write a ratio using a fraction</SubSectionName>
 		<UrlKey>write-a-ratio-using-a-fraction</UrlKey>
@@ -1731,7 +1731,7 @@
 		<Grade>6</Grade>
 		<SectionId>S</SectionId>
 		<SectionName>Ratios and rates</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>3</SubSectionId>
 		<SubSectionName>S.3 Write a ratio: word problems</SubSectionName>
 		<UrlKey>write-a-ratio-word-problems</UrlKey>
@@ -1742,7 +1742,7 @@
 		<Grade>6</Grade>
 		<SectionId>S</SectionId>
 		<SectionName>Ratios and rates</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>4</SubSectionId>
 		<SubSectionName>S.4 Which model represents the ratio?</SubSectionName>
 		<UrlKey>which-model-represents-the-ratio</UrlKey>
@@ -1753,7 +1753,7 @@
 		<Grade>6</Grade>
 		<SectionId>S</SectionId>
 		<SectionName>Ratios and rates</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>5</SubSectionId>
 		<SubSectionName>S.5 Identify equivalent ratios</SubSectionName>
 		<UrlKey>identify-equivalent-ratios</UrlKey>
@@ -1764,7 +1764,7 @@
 		<Grade>6</Grade>
 		<SectionId>S</SectionId>
 		<SectionName>Ratios and rates</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>6</SubSectionId>
 		<SubSectionName>S.6 Write an equivalent ratio</SubSectionName>
 		<UrlKey>write-an-equivalent-ratio</UrlKey>
@@ -1775,7 +1775,7 @@
 		<Grade>6</Grade>
 		<SectionId>S</SectionId>
 		<SectionName>Ratios and rates</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>7</SubSectionId>
 		<SubSectionName> S.7 Ratio tables</SubSectionName>
 		<UrlKey>ratio-tables</UrlKey>
@@ -1786,7 +1786,7 @@
 		<Grade>6</Grade>
 		<SectionId>S</SectionId>
 		<SectionName>Ratios and rates</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>8</SubSectionId>
 		<SubSectionName>S.8 Equivalent ratios: word problems</SubSectionName>
 		<UrlKey>equivalent-ratios-word-problems</UrlKey>
@@ -1797,7 +1797,7 @@
 		<Grade>6</Grade>
 		<SectionId>S</SectionId>
 		<SectionName>Ratios and rates</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>9</SubSectionId>
 		<SubSectionName>S.9 Unit rates</SubSectionName>
 		<UrlKey>unit-rates</UrlKey>
@@ -1808,7 +1808,7 @@
 		<Grade>6</Grade>
 		<SectionId>S</SectionId>
 		<SectionName>Ratios and rates</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>10</SubSectionId>
 		<SubSectionName>S.10 Equivalent rates</SubSectionName>
 		<UrlKey>equivalent-rates</UrlKey>
@@ -1819,7 +1819,7 @@
 		<Grade>6</Grade>
 		<SectionId>S</SectionId>
 		<SectionName>Ratios and rates</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>11</SubSectionId>
 		<SubSectionName>S.11 Calculate speed, distance, or time: word problems</SubSectionName>
 		<UrlKey>calculate-speed-distance-or-time-word-problems</UrlKey>
@@ -1830,7 +1830,7 @@
 		<Grade>6</Grade>
 		<SectionId>S</SectionId>
 		<SectionName>Ratios and rates</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>12</SubSectionId>
 		<SubSectionName>S.12 Ratios and rates: complete a table and make a graph</SubSectionName>
 		<UrlKey>ratios-and-rates-complete-a-table-and-make-a-graph</UrlKey>
@@ -1841,7 +1841,7 @@
 		<Grade>6</Grade>
 		<SectionId>S</SectionId>
 		<SectionName>Ratios and rates</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>13</SubSectionId>
 		<SubSectionName>S.13 Use tape diagrams to solve ratio word problems</SubSectionName>
 		<UrlKey>use-tape-diagrams-to-solve-ratio-word-problems</UrlKey>
@@ -1852,7 +1852,7 @@
 		<Grade>6</Grade>
 		<SectionId>S</SectionId>
 		<SectionName>Ratios and rates</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>14</SubSectionId>
 		<SubSectionName>S.14 Compare ratios: word problems</SubSectionName>
 		<UrlKey>compare-ratios-word-problems</UrlKey>
@@ -1863,7 +1863,7 @@
 		<Grade>6</Grade>
 		<SectionId>S</SectionId>
 		<SectionName>Ratios and rates</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>15</SubSectionId>
 		<SubSectionName>S.15 Compare rates: word problems</SubSectionName>
 		<UrlKey>compare-rates-word-problems</UrlKey>
@@ -1874,7 +1874,7 @@
 		<Grade>6</Grade>
 		<SectionId>S</SectionId>
 		<SectionName>Ratios and rates</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>16</SubSectionId>
 		<SubSectionName>S.16 Ratios and rates: word problems</SubSectionName>
 		<UrlKey>ratios-and-rates-word-problems</UrlKey>
@@ -1885,7 +1885,7 @@
 		<Grade>6</Grade>
 		<SectionId>S</SectionId>
 		<SectionName>Ratios and rates</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>17</SubSectionId>
 		<SubSectionName>S.17 Do the ratios form a proportion?</SubSectionName>
 		<UrlKey>do-the-ratios-form-a-proportion</UrlKey>
@@ -1896,7 +1896,7 @@
 		<Grade>6</Grade>
 		<SectionId>S</SectionId>
 		<SectionName>Ratios and rates</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>18</SubSectionId>
 		<SubSectionName>S.18 Solve the proportion</SubSectionName>
 		<UrlKey>solve-the-proportion</UrlKey>
@@ -1907,7 +1907,7 @@
 		<Grade>6</Grade>
 		<SectionId>S</SectionId>
 		<SectionName>Ratios and rates</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>19</SubSectionId>
 		<SubSectionName>S.19 Scale drawings: word problems</SubSectionName>
 		<UrlKey>scale-drawings-word-problems</UrlKey>
@@ -2270,7 +2270,7 @@
 		<Grade>6</Grade>
 		<SectionId>W</SectionId>
 		<SectionName>Units of measurement</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>11</SubSectionId>
 		<SubSectionName>W.11 Convert between Celsius and Fahrenheit</SubSectionName>
 		<UrlKey>convert-between-celsius-and-fahrenheit</UrlKey>
@@ -2737,7 +2737,7 @@
 		<Grade>6</Grade>
 		<SectionId>GG</SectionId>
 		<SectionName>Perimeter and area</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>12</SubSectionId>
 		<SubSectionName>GG.12 Area of compound figures with triangles</SubSectionName>
 		<UrlKey>area-of-compound-figures-with-triangles</UrlKey>
@@ -2847,7 +2847,7 @@
 		<Grade>6</Grade>
 		<SectionId>HH</SectionId>
 		<SectionName>Surface area and volume</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>5</SubSectionId>
 		<SubSectionName>HH.5 Volume of triangular prisms</SubSectionName>
 		<UrlKey>volume-of-triangular-prisms</UrlKey>
