@@ -197,7 +197,7 @@
 		<Grade>3</Grade>
 		<SectionId>DD</SectionId>
 		<SectionName>Understand fractions</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>12</SubSectionId>
 		<SubSectionName>DD.12 Match mixed numbers to models</SubSectionName>
 		<UrlKey>match-mixed-numbers-to-models</UrlKey>
@@ -869,7 +869,7 @@
 		<Grade>3</Grade>
 		<SectionId>R</SectionId>
 		<SectionName>Multiplication properties</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>3</Enabled>
 		<SubSectionId>2</SubSectionId>
 		<SubSectionName>R.2 Solve using properties of multiplication</SubSectionName>
 		<UrlKey>solve-using-properties-of-multiplication</UrlKey>
@@ -965,7 +965,7 @@
 		<Grade>3</Grade>
 		<SectionId>S</SectionId>
 		<SectionName>Multiplication word problems</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>3</Enabled>
 		<SubSectionId>7</SubSectionId>
 		<SubSectionName>S.7 Compare numbers using multiplication: word problems</SubSectionName>
 		<UrlKey>compare-numbers-using-multiplication-word-problems</UrlKey>
@@ -981,7 +981,7 @@
 		<Grade>3</Grade>
 		<SectionId>SS</SectionId>
 		<SectionName>Elapsed time</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>3</Enabled>
 		<SubSectionId>3</SubSectionId>
 		<SubSectionName>SS.3 Find the end time: word problems</SubSectionName>
 		<UrlKey>find-the-end-time-word-problems</UrlKey>
@@ -1125,7 +1125,7 @@
 		<Grade>3</Grade>
 		<SectionId>V</SectionId>
 		<SectionName>Division skill builders</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>7</SubSectionId>
 		<SubSectionName>V.7 Divide by 7</SubSectionName>
 		<UrlKey>divide-by-7</UrlKey>
@@ -1173,7 +1173,7 @@
 		<Grade>3</Grade>
 		<SectionId>W</SectionId>
 		<SectionName>Division fluency up to 10</SectionName>
-		<Enabled>1</Enabled>
+		<Enabled>0</Enabled>
 		<SubSectionId>4</SubSectionId>
 		<SubSectionName>W.4 Division facts for 6, 7, 8, and 9</SubSectionName>
 		<UrlKey>division-facts-for-6-7-8-and-9</UrlKey>
