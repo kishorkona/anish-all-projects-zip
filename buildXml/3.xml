@@ -1,0 +1,2790 @@
+<Questions>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>A</SectionId>
+	    <SectionName>Place value</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>A.1 Place value names up to ten thousands</SubSectionName>
+	    <UrlKey>place-value-names-up-to-ten-thousands</UrlKey>
+		<ResultsUrl>2000001681</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>A</SectionId>
+	    <SectionName>Place value</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>A.2 Value of a digit up to ten thousands</SubSectionName>
+	    <UrlKey>value-of-a-digit-up-to-ten-thousands</UrlKey>
+		<ResultsUrl>2000001680</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>A</SectionId>
+	    <SectionName>Place value</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>A.3 Convert to/from a number</SubSectionName>
+	    <UrlKey>convert-to-from-a-number</UrlKey>
+		<ResultsUrl>2000001682</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>A</SectionId>
+	    <SectionName>Place value</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>A.4 Convert between place values</SubSectionName>
+	    <UrlKey>convert-between-place-values</UrlKey>
+		<ResultsUrl>2000001683</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>A</SectionId>
+	    <SectionName>Place value</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>5</SubSectionId>
+	    <SubSectionName>A.5 Convert between standard and expanded form</SubSectionName>
+	    <UrlKey>convert-between-standard-and-expanded-form</UrlKey>
+		<ResultsUrl>2000001685</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>A</SectionId>
+	    <SectionName>Place value</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>6</SubSectionId>
+	    <SubSectionName>A.6 Place value word problems</SubSectionName>
+	    <UrlKey>convert-between-standard-and-expanded-form</UrlKey>
+		<ResultsUrl>2000001686</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>A</SectionId>
+	    <SectionName>Place value</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>7</SubSectionId>
+	    <SubSectionName>A.7 Guess the number</SubSectionName>
+	    <UrlKey>guess-the-number</UrlKey>
+		<ResultsUrl>2000001791</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>B</SectionId>
+	    <SectionName>Ordering and comparing</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>B.1 Compare numbers</SubSectionName>
+	    <UrlKey>compare-numbers</UrlKey>
+		<ResultsUrl>2000001667</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>B</SectionId>
+	    <SectionName>Ordering and comparing</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>B.2 Which number is greatest/least</SubSectionName>
+	    <UrlKey>which-number-is-greatest-least</UrlKey>
+		<ResultsUrl>2000001666</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>B</SectionId>
+	    <SectionName>Ordering and comparing</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>B.3 Order numbers</SubSectionName>
+	    <UrlKey>order-numbers</UrlKey>
+		<ResultsUrl>2000001665</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>B</SectionId>
+	    <SectionName>Ordering and comparing</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>B.4 Make the largest or smallest number possible</SubSectionName>
+	    <UrlKey>make-the-largest-or-smallest-number-possible</UrlKey>
+		<ResultsUrl>2000001792</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>B</SectionId>
+	    <SectionName>Ordering and comparing</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>5</SubSectionId>
+	    <SubSectionName>B.5 Ordering puzzles</SubSectionName>
+	    <UrlKey>ordering-puzzles</UrlKey>
+		<ResultsUrl>2000001793</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>C</SectionId>
+	    <SectionName>Rounding</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>C.1 Round to the nearest ten or hundred using a number line</SubSectionName>
+	    <UrlKey>round-to-the-nearest-ten-or-hundred-using-a-number-line</UrlKey>
+		<ResultsUrl>2020042660</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>C</SectionId>
+	    <SectionName>Rounding</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>C.2 Round to the nearest ten or hundred</SubSectionName>
+	    <UrlKey>round-to-the-nearest-ten-or-hundred</UrlKey>
+		<ResultsUrl>2007001198</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>C</SectionId>
+	    <SectionName>Rounding</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>C.3 Round to the nearest ten or hundred in a table</SubSectionName>
+	    <UrlKey>round-to-the-nearest-ten-or-hundred-in-a-table</UrlKey>
+		<ResultsUrl>2020199917</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>C</SectionId>
+	    <SectionName>Rounding</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>C.4 Rounding puzzles</SubSectionName>
+	    <UrlKey>rounding-puzzles</UrlKey>
+		<ResultsUrl>2000001786</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>D</SectionId>
+	    <SectionName>Estimate sums</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>D.1 Estimate sums by rounding: up to 1,000</SubSectionName>
+	    <UrlKey>estimate-sums-by-rounding-up-to-1000</UrlKey>
+		<ResultsUrl>2007001204</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>D</SectionId>
+	    <SectionName>Estimate sums</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>D.2 Estimate sums using compatible numbers</SubSectionName>
+	    <UrlKey>estimate-sums-using-compatible-numbers</UrlKey>
+		<ResultsUrl>2020039366</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>D</SectionId>
+	    <SectionName>Estimate sums</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>D.3 Estimate sums by rounding: word problems</SubSectionName>
+	    <UrlKey>estimate-sums-by-rounding-word-problems</UrlKey>
+		<ResultsUrl>2020030762</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>E</SectionId>
+	    <SectionName>Estimate differences</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>E.1 Estimate differences by rounding: up to 1,000</SubSectionName>
+	    <UrlKey>estimate-differences-by-rounding-up-to-1000</UrlKey>
+		<ResultsUrl>2020006527</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>E</SectionId>
+	    <SectionName>Estimate differences</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>E.2 Estimate differences using compatible numbers</SubSectionName>
+	    <UrlKey>estimate-differences-using-compatible-numbers</UrlKey>
+		<ResultsUrl>2020250517</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>E</SectionId>
+	    <SectionName>Estimate differences</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>E.3 Estimate differences by rounding: word problems</SubSectionName>
+	    <UrlKey>estimate-differences-by-rounding-word-problems</UrlKey>
+		<ResultsUrl>2020030772</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>F</SectionId>
+	    <SectionName>Estimate sums and differences</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>F.1 Estimate sums and differences by rounding: up to 1,000</SubSectionName>
+	    <UrlKey>estimate-sums-and-differences-by-rounding-up-to-1000</UrlKey>
+		<ResultsUrl>2020043283</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>F</SectionId>
+	    <SectionName>Estimate sums and differences</SectionName>
+	    <Enabled>0</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>F.2 Estimate sums and differences using compatible numbers</SubSectionName>
+	    <UrlKey>estimate-sums-and-differences-using-compatible-numbers</UrlKey>
+		<ResultsUrl>2020250917</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>F</SectionId>
+	    <SectionName>Estimate sums and differences</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>F.3 Estimate sums and differences: word problems</SubSectionName>
+	    <UrlKey>estimate-sums-and-differences-word-problems</UrlKey>
+		<ResultsUrl>2020030803</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>F</SectionId>
+	    <SectionName>Estimate sums and differences</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>F.4 Estimate to compare sums and differences</SubSectionName>
+	    <UrlKey>estimate-to-compare-sums-and-differences</UrlKey>
+		<ResultsUrl>2000001787</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>G</SectionId>
+	    <SectionName>Addition: three digits</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>G.1 Use number lines to add three-digit numbers</SubSectionName>
+	    <UrlKey>use-number-lines-to-add-three-digit-numbers</UrlKey>
+		<ResultsUrl>2020763317</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>G</SectionId>
+	    <SectionName>Addition: three digits</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>G.2 Use compensation to add: up to three digits</SubSectionName>
+	    <UrlKey>use-compensation-to-add-up-to-three-digits</UrlKey>
+		<ResultsUrl>2020044565</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>G</SectionId>
+	    <SectionName>Addition: three digits</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>G.3 Use expanded form to add three-digit numbers</SubSectionName>
+	    <UrlKey>use-expanded-form-to-add-three-digit-numbers</UrlKey>
+		<ResultsUrl>2020842117</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>G</SectionId>
+	    <SectionName>Addition: three digits</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>G.4 Add two numbers up to three digits: without regrouping</SubSectionName>
+	    <UrlKey>add-two-numbers-up-to-three-digits-without-regrouping</UrlKey>
+		<ResultsUrl>2020039980</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>G</SectionId>
+	    <SectionName>Addition: three digits</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>5</SubSectionId>
+	    <SubSectionName>G.5 Add two numbers up to three digits: with regrouping</SubSectionName>
+	    <UrlKey>add-two-numbers-up-to-three-digits-regrouping</UrlKey>
+		<ResultsUrl>2020039981</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>G</SectionId>
+	    <SectionName>Addition: three digits</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>6</SubSectionId>
+	    <SubSectionName>G.6 Add two numbers up to three digits</SubSectionName>
+	    <UrlKey>add-two-numbers-up-to-three-digits</UrlKey>
+		<ResultsUrl>2000001687</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>G</SectionId>
+	    <SectionName>Addition: three digits</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>7</SubSectionId>
+	    <SubSectionName>G.7 Add two numbers up to three digits: word problems</SubSectionName>
+	    <UrlKey>add-two-numbers-up-to-three-digits-word-problems</UrlKey>
+		<ResultsUrl>2000001689</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>G</SectionId>
+	    <SectionName>Addition: three digits</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>8</SubSectionId>
+	    <SubSectionName>G.8 Complete the addition sentence: up to three digits</SubSectionName>
+	    <UrlKey>complete-the-addition-sentence-up-to-three-digits</UrlKey>
+		<ResultsUrl>2000001690</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>G</SectionId>
+	    <SectionName>Addition: three digits</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>9</SubSectionId>
+	    <SubSectionName>G.9 Balance addition equations: up to three digits</SubSectionName>
+	    <UrlKey>balance-addition-equations-up-to-three-digits</UrlKey>
+		<ResultsUrl>2000001691</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>G</SectionId>
+	    <SectionName>Addition: three digits</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>10</SubSectionId>
+	    <SubSectionName>G.10 Addition up to three digits: fill in the missing digits</SubSectionName>
+	    <UrlKey>addition-up-to-three-digits-fill-in-the-missing-digits</UrlKey>
+		<ResultsUrl>2020035962</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>G</SectionId>
+	    <SectionName>Addition: three digits</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>11</SubSectionId>
+	    <SubSectionName>G.11 Add three numbers up to three digits each</SubSectionName>
+	    <UrlKey>add-three-numbers-up-to-three-digits-each</UrlKey>
+		<ResultsUrl>2000001692</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>G</SectionId>
+	    <SectionName>Addition: three digits</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>12</SubSectionId>
+	    <SubSectionName>G.12 Add three numbers up to three digits each: word problems</SubSectionName>
+	    <UrlKey>add-three-numbers-up-to-three-digits-each-word-problems</UrlKey>
+		<ResultsUrl>2000001693</ResultsUrl>
+	</Question>
+
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>H</SectionId>
+	    <SectionName>Subtraction: three digits</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>H.1 Use number lines to subtract three-digit numbers</SubSectionName>
+	    <UrlKey>use-number-lines-to-subtract-three-digit-numbers</UrlKey>
+		<ResultsUrl>2020907917</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>H</SectionId>
+	    <SectionName>Subtraction: three digits</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>H.2 Use compensation to subtract: up to three digits</SubSectionName>
+	    <UrlKey>use-compensation-to-subtract-up-to-three-digits</UrlKey>
+		<ResultsUrl>2020376017</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>H</SectionId>
+	    <SectionName>Subtraction: three digits</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>H.3 Subtract numbers up to three digits: without regrouping</SubSectionName>
+	    <UrlKey>subtract-numbers-up-to-three-digits-without-regrouping</UrlKey>
+		<ResultsUrl>2020235517</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>H</SectionId>
+	    <SectionName>Subtraction: three digits</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>H.4 Subtract three-digit numbers: with regrouping</SubSectionName>
+	    <UrlKey>subtract-three-digit-numbers-with-regrouping</UrlKey>
+		<ResultsUrl>2020199817</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>H</SectionId>
+	    <SectionName>Subtraction: three digits</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>5</SubSectionId>
+	    <SubSectionName>H.5 Subtract numbers up to three digits</SubSectionName>
+	    <UrlKey>subtract-numbers-up-to-three-digits</UrlKey>
+		<ResultsUrl>2000001738</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>H</SectionId>
+	    <SectionName>Subtraction: three digits</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>6</SubSectionId>
+	    <SubSectionName>H.6 Subtract across zeros</SubSectionName>
+	    <UrlKey>subtract-across-zeros</UrlKey>
+		<ResultsUrl>2020044588</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>H</SectionId>
+	    <SectionName>Subtraction: three digits</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>7</SubSectionId>
+	    <SubSectionName>H.7 Subtract numbers up to three digits: word problems</SubSectionName>
+	    <UrlKey>subtract-numbers-up-to-three-digits-word-problems</UrlKey>
+		<ResultsUrl>2000001740</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>H</SectionId>
+	    <SectionName>Subtraction: three digits</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>8</SubSectionId>
+	    <SubSectionName>H.8 Complete the subtraction sentence: up to three digits</SubSectionName>
+	    <UrlKey>complete-the-subtraction-sentence-up-to-three-digits</UrlKey>
+		<ResultsUrl>2000001741</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>H</SectionId>
+	    <SectionName>Subtraction: three digits</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>9</SubSectionId>
+	    <SubSectionName>H.9 Balance subtraction equations: up to three digits</SubSectionName>
+	    <UrlKey>balance-subtraction-equations-up-to-three-digits</UrlKey>
+		<ResultsUrl>2000001742</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>H</SectionId>
+	    <SectionName>Subtraction: three digits</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>10</SubSectionId>
+	    <SubSectionName>H.10 Subtraction up to three digits: fill in the missing digits</SubSectionName>
+	    <UrlKey>subtraction-up-to-three-digits-fill-in-the-missing-digits</UrlKey>
+		<ResultsUrl>2020702217</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>I</SectionId>
+	    <SectionName>Addition: four or five digits</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>I.1 Addition patterns over increasing place values</SubSectionName>
+	    <UrlKey>addition-patterns-over-increasing-place-values</UrlKey>
+		<ResultsUrl>2000001694</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>I</SectionId>
+	    <SectionName>Addition: four or five digits</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>I.2 Add two numbers up to four digits</SubSectionName>
+	    <UrlKey>add-two-numbers-up-to-four-digits</UrlKey>
+		<ResultsUrl>2000001695</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>I</SectionId>
+	    <SectionName>Addition: four or five digits</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>I.3 Add two numbers up to four digits: word problems</SubSectionName>
+	    <UrlKey>add-two-numbers-up-to-four-digits-word-problems</UrlKey>
+		<ResultsUrl>2000001697</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>I</SectionId>
+	    <SectionName>Addition: four or five digits</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>I.4 Complete the addition sentence: up to four digits</SubSectionName>
+	    <UrlKey>complete-the-addition-sentence-up-to-four-digits</UrlKey>
+		<ResultsUrl>2000001698</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>I</SectionId>
+	    <SectionName>Addition: four or five digits</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>5</SubSectionId>
+	    <SubSectionName>I.5 Addition up to four digits: fill in the missing digits</SubSectionName>
+	    <UrlKey>addition-up-to-four-digits-fill-in-the-missing-digits</UrlKey>
+		<ResultsUrl>2000001702</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>I</SectionId>
+	    <SectionName>Addition: four or five digits</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>6</SubSectionId>
+	    <SubSectionName>I.6 Add three numbers up to four digits each</SubSectionName>
+	    <UrlKey>add-three-numbers-up-to-four-digits-each</UrlKey>
+		<ResultsUrl>2000001700</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>I</SectionId>
+	    <SectionName>Addition: four or five digits</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>7</SubSectionId>
+	    <SubSectionName>I.7 Add three numbers up to four digits each: word problems</SubSectionName>
+	    <UrlKey>add-three-numbers-up-to-four-digits-each-word-problems</UrlKey>
+		<ResultsUrl>2000001701</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>I</SectionId>
+	    <SectionName>Addition: four or five digits</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>8</SubSectionId>
+	    <SubSectionName>I.8 Add two numbers up to five digits</SubSectionName>
+	    <UrlKey>add-two-numbers-up-to-five-digits</UrlKey>
+		<ResultsUrl>2020702317</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>J</SectionId>
+	    <SectionName>Subtraction: four or five digits</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>J.1 Subtraction patterns over increasing place values</SubSectionName>
+	    <UrlKey>subtraction-patterns-over-increasing-place-values</UrlKey>
+		<ResultsUrl>2000001743</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>J</SectionId>
+	    <SectionName>Subtraction: four or five digits</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>J.2 Subtract two numbers up to four digits</SubSectionName>
+	    <UrlKey>subtract-two-numbers-up-to-four-digits</UrlKey>
+		<ResultsUrl>2020404517</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>J</SectionId>
+	    <SectionName>Subtraction: four or five digits</SectionName>
+	    <Enabled>3</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>J.3 Subtract two numbers up to four digits: word problems</SubSectionName>
+	    <UrlKey>subtract-two-numbers-up-to-four-digits-word-problems</UrlKey>
+		<ResultsUrl>2020512017</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>J</SectionId>
+	    <SectionName>Subtraction: four or five digits</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>J.4 Subtract two numbers up to five digits</SubSectionName>
+	    <UrlKey>subtract-two-numbers-up-to-five-digits</UrlKey>
+		<ResultsUrl>2020702417</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>K</SectionId>
+	    <SectionName>Mixed operations: addition and subtraction</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>K.1 Relate addition and subtraction sentences</SubSectionName>
+	    <UrlKey>relate-addition-and-subtraction-sentences</UrlKey>
+		<ResultsUrl>2020042664</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>K</SectionId>
+	    <SectionName>Mixed operations: addition and subtraction</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>K.2 Use number lines to add and subtract three-digit numbers</SubSectionName>
+	    <UrlKey>use-number-lines-to-add-and-subtract-three-digit-numbers</UrlKey>
+		<ResultsUrl>2020907817</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>K</SectionId>
+	    <SectionName>Mixed operations: addition and subtraction</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>K.3 Use compensation to add or subtract: up to three digits</SubSectionName>
+	    <UrlKey>use-compensation-to-add-or-subtract-up-to-three-digits</UrlKey>
+		<ResultsUrl>2020376217</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>K</SectionId>
+	    <SectionName>Mixed operations: addition and subtraction</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>K.4 Add and subtract three-digit numbers</SubSectionName>
+	    <UrlKey>add-and-subtract-three-digit-numbers</UrlKey>
+		<ResultsUrl>2020043286</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>K</SectionId>
+	    <SectionName>Mixed operations: addition and subtraction</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>5</SubSectionId>
+	    <SubSectionName>K.5 Add and subtract data from tables</SubSectionName>
+	    <UrlKey>add-and-subtract-data-from-tables</UrlKey>
+		<ResultsUrl>2000001769</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>K</SectionId>
+	    <SectionName>Mixed operations: addition and subtraction</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>6</SubSectionId>
+	    <SubSectionName>K.6 Addition and subtraction word problems</SubSectionName>
+	    <UrlKey>addition-and-subtraction-word-problems</UrlKey>
+		<ResultsUrl>2009005191</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>K</SectionId>
+	    <SectionName>Mixed operations: addition and subtraction</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>7</SubSectionId>
+	    <SubSectionName>K.7 Age puzzles</SubSectionName>
+	    <UrlKey>age-puzzles</UrlKey>
+		<ResultsUrl>2000001794</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>K</SectionId>
+	    <SectionName>Mixed operations: addition and subtraction</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>8</SubSectionId>
+	    <SubSectionName>K.8 Find two numbers based on sum and difference</SubSectionName>
+	    <UrlKey>find-two-numbers-based-on-sum-and-difference</UrlKey>
+		<ResultsUrl>2000001795</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>L</SectionId>
+	    <SectionName>Addition properties</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>L.1 Properties of addition</SubSectionName>
+	    <UrlKey>properties-of-addition</UrlKey>
+		<ResultsUrl>2000001774</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>L</SectionId>
+	    <SectionName>Addition properties</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>L.2 Complete the equation using properties of addition</SubSectionName>
+	    <UrlKey>complete-the-equation-using-properties-of-addition</UrlKey>
+		<ResultsUrl>2000001775</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>L</SectionId>
+	    <SectionName>Addition properties</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>L.3 Add using properties</SubSectionName>
+	    <UrlKey>add-using-properties</UrlKey>
+		<ResultsUrl>2020038449</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>L</SectionId>
+	    <SectionName>Addition properties</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>L.4 Even or odd: addition patterns</SubSectionName>
+	    <UrlKey>even-or-odd-addition-patterns</UrlKey>
+		<ResultsUrl>2000001662</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>M</SectionId>
+	    <SectionName>Skip-counting</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>M.1 Skip-counting</SubSectionName>
+	    <UrlKey>skip-counting</UrlKey>
+		<ResultsUrl>2007000996</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>M</SectionId>
+	    <SectionName>Skip-counting</SectionName>
+	    <Enabled>3</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>M.2 Skip-counting sequences</SubSectionName>
+	    <UrlKey>skip-counting-sequences</UrlKey>
+		<ResultsUrl>2020038742</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>M</SectionId>
+	    <SectionName>Skip-counting</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>M.3 Skip-counting puzzles</SubSectionName>
+	    <UrlKey>skip-counting-puzzles</UrlKey>
+		<ResultsUrl>2000001663</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>N</SectionId>
+	    <SectionName>Understand multiplication</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>N.1 Identify repeated addition for equal groups - sums to 25</SubSectionName>
+	    <UrlKey>identify-repeated-addition-for-equal-groups-sums-to-25</UrlKey>
+		<ResultsUrl>2020657517</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>N</SectionId>
+	    <SectionName>Understand multiplication</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>N.2 Write addition sentences for equal groups - sums to 25</SubSectionName>
+	    <UrlKey>write-addition-sentences-for-equal-groups-sums-to-25</UrlKey>
+		<ResultsUrl>2020657617</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>N</SectionId>
+	    <SectionName>Understand multiplication</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>N.3 Count equal groups</SubSectionName>
+	    <UrlKey>count-equal-groups</UrlKey>
+		<ResultsUrl>2020000806</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>N</SectionId>
+	    <SectionName>Understand multiplication</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>N.4 Identify multiplication expressions for equal groups</SubSectionName>
+	    <UrlKey>identify-multiplication-expressions-for-equal-groups</UrlKey>
+		<ResultsUrl>2020000741</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>N</SectionId>
+	    <SectionName>Understand multiplication</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>5</SubSectionId>
+	    <SubSectionName>N.5 Write multiplication sentences for equal groups</SubSectionName>
+	    <UrlKey>write-multiplication-sentences-for-equal-groups</UrlKey>
+		<ResultsUrl>2000001747</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>N</SectionId>
+	    <SectionName>Understand multiplication</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>6</SubSectionId>
+	    <SubSectionName>N.6 Relate addition and multiplication for equal groups</SubSectionName>
+	    <UrlKey>relate-addition-and-multiplication-for-equal-groups</UrlKey>
+		<ResultsUrl>2020000701</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>N</SectionId>
+	    <SectionName>Understand multiplication</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>7</SubSectionId>
+	    <SubSectionName>N.7 Multiply by 0 or 1 with equal groups</SubSectionName>
+	    <UrlKey>multiply-by-0-or-1-with-equal-groups</UrlKey>
+		<ResultsUrl>2020866917</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>N</SectionId>
+	    <SectionName>Understand multiplication</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>8</SubSectionId>
+	    <SubSectionName>N.8 Identify multiplication expressions for arrays</SubSectionName>
+	    <UrlKey>identify-multiplication-expressions-for-arrays</UrlKey>
+		<ResultsUrl>2020006478</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>N</SectionId>
+	    <SectionName>Understand multiplication</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>9</SubSectionId>
+	    <SubSectionName>N.9 Write multiplication sentences for arrays</SubSectionName>
+	    <UrlKey>write-multiplication-sentences-for-arrays</UrlKey>
+		<ResultsUrl>2020000691</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>N</SectionId>
+	    <SectionName>Understand multiplication</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>10</SubSectionId>
+	    <SubSectionName>N.10 Make arrays to model multiplication</SubSectionName>
+	    <UrlKey>make-arrays-to-model-multiplication</UrlKey>
+		<ResultsUrl>2020000641</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>N</SectionId>
+	    <SectionName>Understand multiplication</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>11</SubSectionId>
+	    <SubSectionName>N.11 Multiply using number lines</SubSectionName>
+	    <UrlKey>multiply-using-number-lines</UrlKey>
+		<ResultsUrl>2020522317</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>N</SectionId>
+	    <SectionName>Understand multiplication</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>12</SubSectionId>
+	    <SubSectionName>N.12 Write multiplication sentences for number lines</SubSectionName>
+	    <UrlKey>write-multiplication-sentences-for-number-lines</UrlKey>
+		<ResultsUrl>2020000810</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>N</SectionId>
+	    <SectionName>Understand multiplication</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>13</SubSectionId>
+	    <SubSectionName>N.13 Relate addition and multiplication</SubSectionName>
+	    <UrlKey>relate-addition-and-multiplication</UrlKey>
+		<ResultsUrl>2000001778</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>N</SectionId>
+	    <SectionName>Understand multiplication</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>14</SubSectionId>
+	    <SubSectionName>N.14 Compare numbers using multiplication</SubSectionName>
+	    <UrlKey>compare-numbers-using-multiplication</UrlKey>
+		<ResultsUrl>2020035668</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>O</SectionId>
+	    <SectionName>Multiplication skill builders</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>O.1 Multiply by 0</SubSectionName>
+	    <UrlKey>multiply-by-0</UrlKey>
+		<ResultsUrl>2001000308</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>O</SectionId>
+	    <SectionName>Multiplication skill builders</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>O.2 Multiply by 1</SubSectionName>
+	    <UrlKey>multiply-by-1</UrlKey>
+		<ResultsUrl>2001000309</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>O</SectionId>
+	    <SectionName>Multiplication skill builders</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>O.3 Multiply by 2</SubSectionName>
+	    <UrlKey>multiply-by-2</UrlKey>
+		<ResultsUrl>2001000310</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>O</SectionId>
+	    <SectionName>Multiplication skill builders</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>O.4 Multiply by 3</SubSectionName>
+	    <UrlKey>multiply-by-3</UrlKey>
+		<ResultsUrl>2001000311</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>O</SectionId>
+	    <SectionName>Multiplication skill builders</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>5</SubSectionId>
+	    <SubSectionName>O.5 Multiply by 4</SubSectionName>
+	    <UrlKey>multiply-by-4</UrlKey>
+		<ResultsUrl>2001000312</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>O</SectionId>
+	    <SectionName>Multiplication skill builders</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>6</SubSectionId>
+	    <SubSectionName>O.6 Multiply by 5</SubSectionName>
+	    <UrlKey>multiply-by-5</UrlKey>
+		<ResultsUrl>2001000313</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>O</SectionId>
+	    <SectionName>Multiplication skill builders</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>7</SubSectionId>
+	    <SubSectionName>O.7 Multiply by 6</SubSectionName>
+	    <UrlKey>multiply-by-6</UrlKey>
+		<ResultsUrl>2001000314</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>O</SectionId>
+	    <SectionName>Multiplication skill builders</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>8</SubSectionId>
+	    <SubSectionName>O.8 Multiply by 7</SubSectionName>
+	    <UrlKey>multiply-by-7</UrlKey>
+		<ResultsUrl>2001000315</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>O</SectionId>
+	    <SectionName>Multiplication skill builders</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>9</SubSectionId>
+	    <SubSectionName>O.9 Multiply by 8</SubSectionName>
+	    <UrlKey>multiply-by-8</UrlKey>
+		<ResultsUrl>2001000316</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>O</SectionId>
+	    <SectionName>Multiplication skill builders</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>10</SubSectionId>
+	    <SubSectionName>O.10 Multiply by 9</SubSectionName>
+	    <UrlKey>multiply-by-9</UrlKey>
+		<ResultsUrl>2001000317</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>O</SectionId>
+	    <SectionName>Multiplication skill builders</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>11</SubSectionId>
+	    <SubSectionName>O.11 Multiply by 10</SubSectionName>
+	    <UrlKey>multiply-by-10</UrlKey>
+		<ResultsUrl>2001000318</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>O</SectionId>
+	    <SectionName>Multiplication skill builders</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>12</SubSectionId>
+	    <SubSectionName>O.12 Multiply by 11</SubSectionName>
+	    <UrlKey>multiply-by-11</UrlKey>
+		<ResultsUrl>2001000319</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>O</SectionId>
+	    <SectionName>Multiplication skill builders</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>13</SubSectionId>
+	    <SubSectionName>O.13 Multiply by 12</SubSectionName>
+	    <UrlKey>multiply-by-12</UrlKey>
+		<ResultsUrl>2001000320</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>P</SectionId>
+	    <SectionName>Multiplication fluency up to 10</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>P.1 Multiplication facts for 2, 3, 4, 5, and 10</SubSectionName>
+	    <UrlKey>multiplication-facts-for-2-3-4-5-and-10</UrlKey>
+		<ResultsUrl>2007001167</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>P</SectionId>
+	    <SectionName>Multiplication fluency up to 10</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>P.2 Multiplication facts for 2, 3, 4, 5, and 10: true or false?</SubSectionName>
+	    <UrlKey>multiplication-facts-for-2-3-4-5-and-10-true-or-false</UrlKey>
+		<ResultsUrl>2009005727</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>P</SectionId>
+	    <SectionName>Multiplication fluency up to 10</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>P.3 Multiplication facts for 2, 3, 4, 5, and 10: sorting</SubSectionName>
+	    <UrlKey>multiplication-facts-for-2-3-4-5-and-10-sorting</UrlKey>
+		<ResultsUrl>2020000160</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>P</SectionId>
+	    <SectionName>Multiplication fluency up to 10</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>P.4 Multiplication facts for 2, 3, 4, 5, and 10: find the missing factor</SubSectionName>
+	    <UrlKey>multiplication-facts-for-2-3-4-5-and-10-find-the-missing-factor</UrlKey>
+		<ResultsUrl>2020006505</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>P</SectionId>
+	    <SectionName>Multiplication fluency up to 10</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>5</SubSectionId>
+	    <SubSectionName>P.5 Multiplication facts for 6, 7, 8, and 9</SubSectionName>
+	    <UrlKey>multiplication-facts-for-6-7-8-and-9</UrlKey>
+		<ResultsUrl>2007001168</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>P</SectionId>
+	    <SectionName>Multiplication fluency up to 10</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>6</SubSectionId>
+	    <SubSectionName>P.6 Multiplication facts for 6, 7, 8, and 9: true or false?</SubSectionName>
+	    <UrlKey>multiplication-facts-for-6-7-8-and-9-true-or-false</UrlKey>
+		<ResultsUrl>2009005758</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>P</SectionId>
+	    <SectionName>Multiplication fluency up to 10</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>7</SubSectionId>
+	    <SubSectionName>P.7 Multiplication facts for 6, 7, 8, and 9: sorting</SubSectionName>
+	    <UrlKey>multiplication-facts-for-6-7-8-and-9-sorting</UrlKey>
+		<ResultsUrl>2020000161</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>P</SectionId>
+	    <SectionName>Multiplication fluency up to 10</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>8</SubSectionId>
+	    <SubSectionName>P.8 Multiplication facts for 6, 7, 8, and 9: find the missing factor</SubSectionName>
+	    <UrlKey>multiplication-facts-for-6-7-8-and-9-find-the-missing-factor</UrlKey>
+		<ResultsUrl>2020006506</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>P</SectionId>
+	    <SectionName>Multiplication fluency up to 10</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>9</SubSectionId>
+	    <SubSectionName>P.9 Multiplication facts up to 10</SubSectionName>
+	    <UrlKey>multiplication-facts-up-to-10</UrlKey>
+		<ResultsUrl>2007001169</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>P</SectionId>
+	    <SectionName>Multiplication fluency up to 10</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>10</SubSectionId>
+	    <SubSectionName>P.10 Multiplication facts up to 10: true or false?</SubSectionName>
+	    <UrlKey>multiplication-facts-up-to-10-true-or-false</UrlKey>
+		<ResultsUrl>2009005748</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>P</SectionId>
+	    <SectionName>Multiplication fluency up to 10</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>11</SubSectionId>
+	    <SubSectionName>P.11 Multiplication facts up to 10: sorting</SubSectionName>
+	    <UrlKey>multiplication-facts-up-to-10-sorting</UrlKey>
+		<ResultsUrl>2020000162</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>P</SectionId>
+	    <SectionName>Multiplication fluency up to 10</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>12</SubSectionId>
+	    <SubSectionName>P.12 Multiplication facts up to 10: find the missing factor</SubSectionName>
+	    <UrlKey>multiplication-facts-up-to-10-find-the-missing-factor</UrlKey>
+		<ResultsUrl>2020006507</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>P</SectionId>
+	    <SectionName>Multiplication fluency up to 10</SectionName>
+	    <Enabled>3</Enabled>
+	    <SubSectionId>13</SubSectionId>
+	    <SubSectionName>P.13 Multiplication facts up to 10: select the missing factors</SubSectionName>
+	    <UrlKey>multiplication-facts-up-to-10-select-the-missing-factors</UrlKey>
+		<ResultsUrl>2020002025</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>P</SectionId>
+	    <SectionName>Multiplication fluency up to 10</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>14</SubSectionId>
+	    <SubSectionName>P.14 Multiplication sentences up to 10: true or false?</SubSectionName>
+	    <UrlKey>multiplication-sentences-up-to-10-true-or-false</UrlKey>
+		<ResultsUrl>2009005751</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>P</SectionId>
+	    <SectionName>Multiplication fluency up to 10</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>15</SubSectionId>
+	    <SubSectionName>P.15 Squares up to 10 x 10</SubSectionName>
+	    <UrlKey>squares-up-to-10-x-10</UrlKey>
+		<ResultsUrl>2000001752</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>Q</SectionId>
+	    <SectionName>Multiplication fluency up to 12</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>Q.1 Multiplication facts to 12</SubSectionName>
+	    <UrlKey>multiplication-facts-to-12</UrlKey>
+		<ResultsUrl>2000001748</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>Q</SectionId>
+	    <SectionName>Multiplication fluency up to 12</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>Q.2 Multiplication facts up to 12: true or false?</SubSectionName>
+	    <UrlKey>multiplication-facts-up-to-12-true-or-false</UrlKey>
+		<ResultsUrl>2020001320</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>Q</SectionId>
+	    <SectionName>Multiplication fluency up to 12</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>Q.3 Multiplication facts up to 12: find the missing factor</SubSectionName>
+	    <UrlKey>multiplication-facts-up-to-12-find-the-missing-factor</UrlKey>
+		<ResultsUrl>2000001750</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>Q</SectionId>
+	    <SectionName>Multiplication fluency up to 12</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>Q.4 Multiplication facts up to 12: select the missing factors</SubSectionName>
+	    <UrlKey>multiplication-facts-up-to-12-select-the-missing-factors</UrlKey>
+		<ResultsUrl>2020002026</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>Q</SectionId>
+	    <SectionName>Multiplication fluency up to 12</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>5</SubSectionId>
+	    <SubSectionName>Q.5 Multiplication sentences up to 12: true or false?</SubSectionName>
+	    <UrlKey>multiplication-sentences-up-to-12-true-or-false</UrlKey>
+		<ResultsUrl>2020001321</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>R</SectionId>
+	    <SectionName>Multiplication properties</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>R.1 Properties of multiplication</SubSectionName>
+	    <UrlKey>properties-of-multiplication</UrlKey>
+		<ResultsUrl>2000001776</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>R</SectionId>
+	    <SectionName>Multiplication properties</SectionName>
+	    <Enabled>3</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>R.2 Solve using properties of multiplication</SubSectionName>
+	    <UrlKey>solve-using-properties-of-multiplication</UrlKey>
+		<ResultsUrl>2000001777</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>R</SectionId>
+	    <SectionName>Multiplication properties</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>R.3 Multiply by 0 or 1: complete the sentence</SubSectionName>
+	    <UrlKey>multiply-by-0-or-1-complete-the-sentence</UrlKey>
+		<ResultsUrl>2020250317</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>R</SectionId>
+	    <SectionName>Multiplication properties</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>R.4 Write two multiplication sentences for an array</SubSectionName>
+	    <UrlKey>write-two-multiplication-sentences-for-an-array</UrlKey>
+		<ResultsUrl>2020249917</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>R</SectionId>
+	    <SectionName>Multiplication properties</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>5</SubSectionId>
+	    <SubSectionName>R.5 Distributive property: find the missing factor</SubSectionName>
+	    <UrlKey>distributive-property-find-the-missing-factor</UrlKey>
+		<ResultsUrl>2007000615</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>R</SectionId>
+	    <SectionName>Multiplication properties</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>6</SubSectionId>
+	    <SubSectionName>R.6 Multiply one-digit numbers using grids</SubSectionName>
+	    <UrlKey>multiply-one-digit-numbers-using-grids</UrlKey>
+		<ResultsUrl>2020620117</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>R</SectionId>
+	    <SectionName>Multiplication properties</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>7</SubSectionId>
+	    <SubSectionName>R.7 Multiply using the distributive property</SubSectionName>
+	    <UrlKey>multiply-using-the-distributive-property</UrlKey>
+		<ResultsUrl>2007000616</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>R</SectionId>
+	    <SectionName>Multiplication properties</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>8</SubSectionId>
+	    <SubSectionName>R.8 Even or odd: multiplication patterns</SubSectionName>
+	    <UrlKey>even-or-odd-multiplication-patterns</UrlKey>
+		<ResultsUrl>2020042670</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>S</SectionId>
+	    <SectionName>Multiplication word problems</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>S.1 Use equal groups and arrays to solve multiplication word problems</SubSectionName>
+	    <UrlKey>use-equal-groups-and-arrays-to-solve-multiplication-word-problems</UrlKey>
+		<ResultsUrl>2020808217</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>S</SectionId>
+	    <SectionName>Multiplication word problems</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>S.2 Multiplication word problems with factors up to 5</SubSectionName>
+	    <UrlKey>multiplication-word-problems-with-factors-up-to-5</UrlKey>
+		<ResultsUrl>2020042490</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>S</SectionId>
+	    <SectionName>Multiplication word problems</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>S.3 Use strip models to solve multiplication word problems</SubSectionName>
+	    <UrlKey>use-strip-models-to-solve-multiplication-word-problems</UrlKey>
+		<ResultsUrl>2020760117</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>S</SectionId>
+	    <SectionName>Multiplication word problems</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>S.4 Multiplication word problems with factors up to 10</SubSectionName>
+	    <UrlKey>multiplication-word-problems-with-factors-up-to-10</UrlKey>
+		<ResultsUrl>2000001749</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>S</SectionId>
+	    <SectionName>Multiplication word problems</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>5</SubSectionId>
+	    <SubSectionName>S.5 Multiplication word problems with factors up to 5: find the missing number</SubSectionName>
+	    <UrlKey>multiplication-word-problems-with-factors-up-to-5-find-the-missing-number</UrlKey>
+		<ResultsUrl>2020038744</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>S</SectionId>
+	    <SectionName>Multiplication word problems</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>6</SubSectionId>
+	    <SubSectionName>S.6 Multiplication word problems with factors up to 10: find the missing number</SubSectionName>
+	    <UrlKey>multiplication-word-problems-with-factors-up-to-10-find-the-missing-number</UrlKey>
+		<ResultsUrl>2000001751</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>S</SectionId>
+	    <SectionName>Multiplication word problems</SectionName>
+	    <Enabled>3</Enabled>
+	    <SubSectionId>7</SubSectionId>
+	    <SubSectionName>S.7 Compare numbers using multiplication: word problems</SubSectionName>
+	    <UrlKey>compare-numbers-using-multiplication-word-problems</UrlKey>
+	    <ResultsUrl>2020035672</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>T</SectionId>
+	    <SectionName>Two-digit multiplication</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>T.1 Multiply by a multiple of ten using place value</SubSectionName>
+	    <UrlKey>multiply-by-a-multiple-of-ten-using-place-value</UrlKey>
+		<ResultsUrl>2020293417</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>T</SectionId>
+	    <SectionName>Two-digit multiplication</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>T.2 Multiply by a multiple of ten</SubSectionName>
+	    <UrlKey>multiply-by-a-multiple-of-ten</UrlKey>
+		<ResultsUrl>2002025883</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>T</SectionId>
+	    <SectionName>Two-digit multiplication</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>T.3 Multiply one-digit numbers by teen numbers using grids</SubSectionName>
+	    <UrlKey>multiply-one-digit-numbers-by-teen-numbers-using-grids</UrlKey>
+		<ResultsUrl>2020043366</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>T</SectionId>
+	    <SectionName>Two-digit multiplication</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>T.4 Multiply one-digit numbers by two-digit numbers using area models I</SubSectionName>
+	    <UrlKey>multiply-one-digit-numbers-by-two-digit-numbers-using-area-models</UrlKey>
+		<ResultsUrl>2020037092</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>T</SectionId>
+	    <SectionName>Two-digit multiplication</SectionName>
+	    <Enabled>0</Enabled>
+	    <SubSectionId>5</SubSectionId>
+	    <SubSectionName>T.5 Multiply one-digit numbers by two-digit numbers using area models II</SubSectionName>
+	    <UrlKey>multiply-one-digit-numbers-by-two-digit-numbers-using-area-models-ii</UrlKey>
+		<ResultsUrl>2020037093</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>T</SectionId>
+	    <SectionName>Two-digit multiplication</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>6</SubSectionId>
+	    <SubSectionName> T.6 Multiply one-digit numbers by two-digit numbers</SubSectionName>
+	    <UrlKey>multiply-one-digit-numbers-by-two-digit-numbers</UrlKey>
+		<ResultsUrl>2000001755</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>T</SectionId>
+	    <SectionName>Two-digit multiplication</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>7</SubSectionId>
+	    <SubSectionName>T.7 Multiply one-digit numbers by two-digit numbers: word problems</SubSectionName>
+	    <UrlKey>multiply-one-digit-numbers-by-two-digit-numbers-word-problems</UrlKey>
+		<ResultsUrl>2000001756</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>T</SectionId>
+	    <SectionName>Two-digit multiplication</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>8</SubSectionId>
+	    <SubSectionName>T.8 Multiply three numbers</SubSectionName>
+	    <UrlKey>multiply-3-numbers</UrlKey>
+		<ResultsUrl>2000001757</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>T</SectionId>
+	    <SectionName>Two-digit multiplication</SectionName>
+	    <Enabled>3</Enabled>
+	    <SubSectionId>9</SubSectionId>
+	    <SubSectionName>T.9 Multiply three numbers: word problems</SubSectionName>
+	    <UrlKey>multiply-3-numbers-word-problems</UrlKey>
+		<ResultsUrl>2000001758</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>U</SectionId>
+	    <SectionName>Understand division</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>U.1 Divide by counting equal groups</SubSectionName>
+	    <UrlKey>divide-by-counting-equal-groups</UrlKey>
+		<ResultsUrl>2020003206</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>U</SectionId>
+	    <SectionName>Understand division</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>U.2 Write division sentences for groups</SubSectionName>
+	    <UrlKey>write-division-sentences-for-groups</UrlKey>
+		<ResultsUrl>2020002066</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>U</SectionId>
+	    <SectionName>Understand division</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>U.3 Division sentences with 1 and 0</SubSectionName>
+	    <UrlKey>division-sentences-with-1-and-0</UrlKey>
+		<ResultsUrl>2020483217</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>U</SectionId>
+	    <SectionName>Understand division</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>U.4 Relate multiplication and division for groups</SubSectionName>
+	    <UrlKey>relate-multiplication-and-division-for-groups</UrlKey>
+		<ResultsUrl>2020006477</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>U</SectionId>
+	    <SectionName>Understand division</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>5</SubSectionId>
+	    <SubSectionName>U.5 Write division sentences for arrays</SubSectionName>
+	    <UrlKey>write-division-sentences-for-arrays</UrlKey>
+		<ResultsUrl>2020002065</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>U</SectionId>
+	    <SectionName>Understand division</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>6</SubSectionId>
+	    <SubSectionName>U.6 Relate multiplication and division for arrays</SubSectionName>
+	    <UrlKey>relate-multiplication-and-division-for-arrays</UrlKey>
+		<ResultsUrl>2020006476</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>U</SectionId>
+	    <SectionName>Understand division</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>7</SubSectionId>
+	    <SubSectionName>U.7 Relate multiplication and division</SubSectionName>
+	    <UrlKey>relate-multiplication-and-division</UrlKey>
+		<ResultsUrl>2000001779</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>V</SectionId>
+	    <SectionName>Division skill builders</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>V.1 Divide by 1</SubSectionName>
+	    <UrlKey>divide-by-1</UrlKey>
+		<ResultsUrl>2001000321</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>V</SectionId>
+	    <SectionName>Division skill builders</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>V.2 Divide by 2</SubSectionName>
+	    <UrlKey>divide-by-2</UrlKey>
+		<ResultsUrl>2001000322</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>V</SectionId>
+	    <SectionName>Division skill builders</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>V.3 Divide by 3</SubSectionName>
+	    <UrlKey>divide-by-3</UrlKey>
+		<ResultsUrl>2001000323</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>V</SectionId>
+	    <SectionName>Division skill builders</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>V.4 Divide by 4</SubSectionName>
+	    <UrlKey>divide-by-4</UrlKey>
+		<ResultsUrl>2001000324</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>V</SectionId>
+	    <SectionName>Division skill builders</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>5</SubSectionId>
+	    <SubSectionName> V.5 Divide by 5</SubSectionName>
+	    <UrlKey>divide-by-5</UrlKey>
+		<ResultsUrl>2001000325</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>V</SectionId>
+	    <SectionName>Division skill builders</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>6</SubSectionId>
+	    <SubSectionName>V.6 Divide by 6</SubSectionName>
+	    <UrlKey>divide-by-6</UrlKey>
+		<ResultsUrl>2001000326</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>V</SectionId>
+	    <SectionName>Division skill builders</SectionName>
+	    <Enabled>0</Enabled>
+	    <SubSectionId>7</SubSectionId>
+	    <SubSectionName>V.7 Divide by 7</SubSectionName>
+	    <UrlKey>divide-by-7</UrlKey>
+		<ResultsUrl>2001000327</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>V</SectionId>
+	    <SectionName>Division skill builders</SectionName>
+	    <Enabled>0</Enabled>
+	    <SubSectionId>8</SubSectionId>
+	    <SubSectionName>V.8 Divide by 8</SubSectionName>
+	    <UrlKey>divide-by-8</UrlKey>
+		<ResultsUrl>2001000328</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>V</SectionId>
+	    <SectionName>Division skill builders</SectionName>
+	    <Enabled>0</Enabled>
+	    <SubSectionId>9</SubSectionId>
+	    <SubSectionName>V.9 Divide by 9</SubSectionName>
+	    <UrlKey>divide-by-9</UrlKey>
+		<ResultsUrl>2001000329</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>V</SectionId>
+	    <SectionName>Division skill builders</SectionName>
+	    <Enabled>0</Enabled>
+	    <SubSectionId>10</SubSectionId>
+	    <SubSectionName>V.10 Divide by 10</SubSectionName>
+	    <UrlKey>divide-by-10</UrlKey>
+		<ResultsUrl>2001000332</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>V</SectionId>
+	    <SectionName>Division skill builders</SectionName>
+	    <Enabled>0</Enabled>
+	    <SubSectionId>11</SubSectionId>
+	    <SubSectionName>V.11 Divide by 11</SubSectionName>
+	    <UrlKey>divide-by-11</UrlKey>
+		<ResultsUrl>2001000390</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>W</SectionId>
+	    <SectionName>Division fluency up to 10</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>W.1 Division facts for 2, 3, 4, 5, and 10</SubSectionName>
+	    <UrlKey>division-facts-for-2-3-4-5-and-10</UrlKey>
+		<ResultsUrl>2000001760</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>W</SectionId>
+	    <SectionName>Division fluency up to 10</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>W.2 Division facts for 2, 3, 4, 5, and 10: true or false?</SubSectionName>
+	    <UrlKey>division-facts-for-2-3-4-5-and-10-true-or-false</UrlKey>
+		<ResultsUrl>2009005749</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>W</SectionId>
+	    <SectionName>Division fluency up to 10</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>W.3 Division facts for 2, 3, 4, 5, and 10: sorting</SubSectionName>
+	    <UrlKey>division-facts-for-2-3-4-5-and-10-sorting</UrlKey>
+		<ResultsUrl>2020000163</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>W</SectionId>
+	    <SectionName>Division fluency up to 10</SectionName>
+	    <Enabled>0</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>W.4 Division facts for 6, 7, 8, and 9</SubSectionName>
+	    <UrlKey>division-facts-for-6-7-8-and-9</UrlKey>
+		<ResultsUrl>2020006493</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>W</SectionId>
+	    <SectionName>Division fluency up to 10</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>5</SubSectionId>
+	    <SubSectionName>W.5 Division facts for 6, 7, 8, and 9: true or false?</SubSectionName>
+	    <UrlKey>division-facts-for-6-7-8-and-9-true-or-false</UrlKey>
+		<ResultsUrl>2009005760</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>W</SectionId>
+	    <SectionName>Division fluency up to 10</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>6</SubSectionId>
+	    <SubSectionName>W.6 Division facts for 6, 7, 8, and 9: sorting</SubSectionName>
+	    <UrlKey>division-facts-for-6-7-8-and-9-sorting</UrlKey>
+		<ResultsUrl>2020000164</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>W</SectionId>
+	    <SectionName>Division fluency up to 10</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>7</SubSectionId>
+	    <SubSectionName>W.7 Division facts up to 10</SubSectionName>
+	    <UrlKey>division-facts-up-to-10</UrlKey>
+		<ResultsUrl>2000001761</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>W</SectionId>
+	    <SectionName>Division fluency up to 10</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>8</SubSectionId>
+	    <SubSectionName>W.8 Division facts up to 10: true or false?</SubSectionName>
+	    <UrlKey>division-facts-up-to-10-true-or-false</UrlKey>
+		<ResultsUrl>2009005750</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>W</SectionId>
+	    <SectionName>Division fluency up to 10</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>9</SubSectionId>
+	    <SubSectionName>W.9 Division facts up to 10: sorting</SubSectionName>
+	    <UrlKey>division-facts-up-to-10-sorting</UrlKey>
+		<ResultsUrl>2020000165</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>W</SectionId>
+	    <SectionName>Division fluency up to 10</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>10</SubSectionId>
+	    <SubSectionName>W.10 Division facts up to 10: find the missing number</SubSectionName>
+	    <UrlKey>division-facts-up-to-10-find-the-missing-number</UrlKey>
+		<ResultsUrl>2001000333</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>W</SectionId>
+	    <SectionName>Division fluency up to 10</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>11</SubSectionId>
+	    <SubSectionName>W.11 Division facts up to 10: select the missing numbers</SubSectionName>
+	    <UrlKey>division-facts-up-to-10-select-the-missing-numbers</UrlKey>
+		<ResultsUrl>2020002027</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>W</SectionId>
+	    <SectionName>Division fluency up to 10</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>12</SubSectionId>
+	    <SubSectionName>W.12 Division sentences up to 10: true or false?</SubSectionName>
+	    <UrlKey>division-sentences-up-to-10-true-or-false</UrlKey>
+		<ResultsUrl>2009005752</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>X</SectionId>
+	    <SectionName>Division fluency up to 12</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>X.1 Division facts up to 12</SubSectionName>
+	    <UrlKey>division-facts-up-to-12</UrlKey>
+		<ResultsUrl>2001000389</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>X</SectionId>
+	    <SectionName>Division fluency up to 12</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>X.2 Division facts up to 12: true or false?</SubSectionName>
+	    <UrlKey>division-facts-up-to-12-true-or-false</UrlKey>
+		<ResultsUrl>2020001322</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>X</SectionId>
+	    <SectionName>Division fluency up to 12</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>X.3 Division facts up to 12: find the missing number</SubSectionName>
+	    <UrlKey>division-facts-up-to-12-find-the-missing-number</UrlKey>
+		<ResultsUrl>2020006492</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>X</SectionId>
+	    <SectionName>Division fluency up to 12</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>X.4 Division facts up to 12: select the missing numbers</SubSectionName>
+	    <UrlKey>division-facts-up-to-12-select-the-missing-numbers</UrlKey>
+		<ResultsUrl>2020002028</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>X</SectionId>
+	    <SectionName>Division fluency up to 12</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>5</SubSectionId>
+	    <SubSectionName>X.5 Division sentences up to 12: true or false?</SubSectionName>
+	    <UrlKey>division-sentences-up-to-12-true-or-false</UrlKey>
+		<ResultsUrl>2020001323</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>Y</SectionId>
+	    <SectionName>Division word problems</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>Y.1 Use equal groups to solve division word problems</SubSectionName>
+	    <UrlKey>use-equal-groups-to-solve-division-word-problems</UrlKey>
+		<ResultsUrl>2020868317</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>Y</SectionId>
+	    <SectionName>Division word problems</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>Y.2 Use arrays to solve division word problems</SubSectionName>
+	    <UrlKey>use-arrays-to-solve-division-word-problems</UrlKey>
+		<ResultsUrl>2020868417</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>Y</SectionId>
+	    <SectionName>Division word problems</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>Y.3 Use equal groups and arrays to solve division word problems</SubSectionName>
+	    <UrlKey>use-equal-groups-and-arrays-to-solve-division-word-problems</UrlKey>
+		<ResultsUrl>2020868517</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>Y</SectionId>
+	    <SectionName>Division word problems</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>Y.4 Division word problems</SubSectionName>
+	    <UrlKey>division-word-problems</UrlKey>
+		<ResultsUrl>2000001762</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>Z</SectionId>
+	    <SectionName>Mixed operations: multiplication and division</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>Z.1 Multiplication and division facts up to 5: true or false?</SubSectionName>
+	    <UrlKey>multiplication-and-division-facts-up-to-5-true-or-false</UrlKey>
+		<ResultsUrl>2009005754</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>Z</SectionId>
+	    <SectionName>Mixed operations: multiplication and division</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>Z.2 Multiplication and division facts up to 10</SubSectionName>
+	    <UrlKey>multiplication-and-division-facts-up-to-10</UrlKey>
+		<ResultsUrl>2020370817</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>Z</SectionId>
+	    <SectionName>Mixed operations: multiplication and division</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>Z.3 Multiplication and division facts up to 10: true or false?</SubSectionName>
+	    <UrlKey>multiplication-and-division-facts-up-to-10-true-or-false</UrlKey>
+		<ResultsUrl>2009005755</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>Z</SectionId>
+	    <SectionName>Mixed operations: multiplication and division</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>Z.4 Multiplication and division facts up to 12: true or false?</SubSectionName>
+	    <UrlKey>multiplication-and-division-facts-up-to-12-true-or-false</UrlKey>
+		<ResultsUrl>2009005756</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>Z</SectionId>
+	    <SectionName>Mixed operations: multiplication and division</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>5</SubSectionId>
+	    <SubSectionName>Z.5 Multiplication and division sentences up to 12: true or false?</SubSectionName>
+	    <UrlKey>multiplication-and-division-sentences-up-to-12-true-or-false</UrlKey>
+		<ResultsUrl>2009005757</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>Z</SectionId>
+	    <SectionName>Mixed operations: multiplication and division</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>6</SubSectionId>
+	    <SubSectionName>Z.6 Multiplication and division word problems</SubSectionName>
+	    <UrlKey>multiplication-and-division-word-problems</UrlKey>
+		<ResultsUrl>2020037315</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>AA</SectionId>
+	    <SectionName>Mixed operations</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>1</SubSectionId>
+	    <SubSectionName>AA.1 Addition, subtraction, multiplication, and division facts</SubSectionName>
+	    <UrlKey>addition-subtraction-multiplication-and-division-facts</UrlKey>
+		<ResultsUrl>2001000341</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>AA</SectionId>
+	    <SectionName>Mixed operations</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>2</SubSectionId>
+	    <SubSectionName>AA.2 Complete the addition, subtraction, multiplication, or division sentence</SubSectionName>
+	    <UrlKey>complete-the-addition-subtraction-multiplication-or-division-sentence</UrlKey>
+		<ResultsUrl>2001000342</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>AA</SectionId>
+	    <SectionName>Mixed operations</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>3</SubSectionId>
+	    <SubSectionName>AA.3 Add, subtract, multiply, and divide</SubSectionName>
+	    <UrlKey>add-subtract-multiply-and-divide</UrlKey>
+		<ResultsUrl>2001000343</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>AA</SectionId>
+	    <SectionName>Mixed operations</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>4</SubSectionId>
+	    <SubSectionName>AA.4 Addition, subtraction, multiplication, and division word problems</SubSectionName>
+	    <UrlKey>addition-subtraction-multiplication-and-division-word-problems</UrlKey>
+		<ResultsUrl>2001000344</ResultsUrl>
+	</Question>
+	<Question>
+	    <Subject>Math</Subject>
+	    <Grade>3</Grade>
+	    <SectionId>AA</SectionId>
+	    <SectionName>Mixed operations</SectionName>
+	    <Enabled>1</Enabled>
+	    <SubSectionId>5</SubSectionId>
+	    <SubSectionName>AA.5 Find two numbers based on sum, difference, product, and quotient</SubSectionName>
+	    <UrlKey>find-two-numbers-based-on-sum-difference-product-and-quotient</UrlKey>
+		<ResultsUrl>2000001796</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>BB</SectionId>
+		<SectionName>Two-step word problems</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>BB.1 Two-step addition and subtraction word problems</SubSectionName>
+		<UrlKey>two-step-addition-and-subtraction-word-problems</UrlKey>
+		<ResultsUrl>2020037142</ResultsUrl>
+	</Question>	
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>BB</SectionId>
+		<SectionName>Two-step word problems</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>BB.2 Two-step multiplication and division word problems</SubSectionName>
+		<UrlKey>two-step-multiplication-and-division-word-problems</UrlKey>
+		<ResultsUrl>2020037143</ResultsUrl>
+	</Question>	
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>BB</SectionId>
+		<SectionName>Two-step word problems</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>BB.3 Two-step mixed operation word problems</SubSectionName>
+		<UrlKey>two-step-mixed-operation-word-problems</UrlKey>
+		<ResultsUrl>2000001770</ResultsUrl>
+	</Question>	
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>BB</SectionId>
+		<SectionName>Two-step word problems</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>BB.4 Two-step word problems: identify reasonable answers</SubSectionName>
+		<UrlKey>two-step-word-problems-identify-reasonable-answers</UrlKey>
+		<ResultsUrl>2020037090</ResultsUrl>
+	</Question>	
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>CC</SectionId>
+		<SectionName>Equations with unknown numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>CC.1 Identify equations</SubSectionName>
+		<UrlKey>identify-equations</UrlKey>
+		<ResultsUrl>2000001780</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>CC</SectionId>
+		<SectionName>Equations with unknown numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>CC.2 Solve for the unknown number: addition and subtraction only</SubSectionName>
+		<UrlKey>solve-for-the-unknown-number-addition-and-subtraction-only</UrlKey>
+		<ResultsUrl>2000001781</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>CC</SectionId>
+		<SectionName>Equations with unknown numbers</SectionName>
+		<Enabled>0</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>CC.3 Solve for the unknown number: multiplication and division only</SubSectionName>
+		<UrlKey>solve-for-the-unknown-number-multiplication-and-division-only</UrlKey>
+		<ResultsUrl>2020000687</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>CC</SectionId>
+		<SectionName>Equations with unknown numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>CC.4 Solve for the unknown number</SubSectionName>
+		<UrlKey>solve-for-the-unknown-number</UrlKey>
+		<ResultsUrl>2000001782</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>CC</SectionId>
+		<SectionName>Equations with unknown numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>CC.5 Write equations with unknown numbers to represent word problems: multiplication and division only</SubSectionName>
+		<UrlKey>write-equations-with-unknown-numbers-to-represent-word-problems-multiplication-and-division-only</UrlKey>
+		<ResultsUrl>2020035989</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>CC</SectionId>
+		<SectionName>Equations with unknown numbers</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>CC.6 Write equations with unknown numbers to represent word problems</SubSectionName>
+		<UrlKey>write-equations-with-unknown-numbers-to-represent-word-problems</UrlKey>
+		<ResultsUrl>2000001783</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>DD</SectionId>
+		<SectionName>Understand fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>DD.1 Identify equal parts</SubSectionName>
+		<UrlKey>identify-equal-parts</UrlKey>
+		<ResultsUrl>2007000411</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>DD</SectionId>
+		<SectionName>Understand fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>DD.2 Make halves, thirds, and fourths</SubSectionName>
+		<UrlKey>make-halves-thirds-and-fourths</UrlKey>
+		<ResultsUrl>2020038048</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>DD</SectionId>
+		<SectionName>Understand fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>DD.3 Make sixths and eighths</SubSectionName>
+		<UrlKey>make-sixths-and-eighths</UrlKey>
+		<ResultsUrl>2020038050</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>DD</SectionId>
+		<SectionName>Understand fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>DD.4 Make halves, thirds, fourths, sixths, and eighths</SubSectionName>
+		<UrlKey>make-halves-thirds-fourths-sixths-and-eighths</UrlKey>
+		<ResultsUrl>2020038051</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>DD</SectionId>
+		<SectionName>Understand fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>DD.5 Understand fractions: fraction bars</SubSectionName>
+		<UrlKey>understand-fractions-fraction-bars</UrlKey>
+		<ResultsUrl>2007000548</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>DD</SectionId>
+		<SectionName>Understand fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>DD.6 Understand fractions: area models</SubSectionName>
+		<UrlKey>understand-fractions-area-models</UrlKey>
+		<ResultsUrl>2007000549</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>DD</SectionId>
+		<SectionName>Understand fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>DD.7 Show fractions: fraction bars</SubSectionName>
+		<UrlKey>show-fractions-fraction-bars</UrlKey>
+		<ResultsUrl>2007000550</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>DD</SectionId>
+		<SectionName>Understand fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>DD.8 Show fractions: area models</SubSectionName>
+		<UrlKey>show-fractions-area-models</UrlKey>
+		<ResultsUrl>2007000551</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>DD</SectionId>
+		<SectionName>Understand fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>9</SubSectionId>
+		<SubSectionName>DD.9 Match fractions to models: halves, thirds, and fourths</SubSectionName>
+		<UrlKey>match-fractions-to-models-halves-thirds-and-fourths</UrlKey>
+		<ResultsUrl>2007000412</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>DD</SectionId>
+		<SectionName>Understand fractions</SectionName>
+		<Enabled>0</Enabled>
+		<SubSectionId>10</SubSectionId>
+		<SubSectionName>DD.10 Match unit fractions to models</SubSectionName>
+		<UrlKey>match-unit-fractions-to-models</UrlKey>
+		<ResultsUrl>2002025884</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>DD</SectionId>
+		<SectionName>Understand fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>11</SubSectionId>
+		<SubSectionName>DD.11 Match fractions to models</SubSectionName>
+		<UrlKey>match-fractions-to-models</UrlKey>
+		<ResultsUrl>2000001850</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>DD</SectionId>
+		<SectionName>Understand fractions</SectionName>
+		<Enabled>0</Enabled>
+		<SubSectionId>12</SubSectionId>
+		<SubSectionName>DD.12 Match mixed numbers to models</SubSectionName>
+		<UrlKey>match-mixed-numbers-to-models</UrlKey>
+		<ResultsUrl>2000001863</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>DD</SectionId>
+		<SectionName>Understand fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>13</SubSectionId>
+		<SubSectionName>DD.13 Fractions of a group: unit fractions</SubSectionName>
+		<UrlKey>fractions-of-a-group-unit-fractions</UrlKey>
+		<ResultsUrl>2020071817</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>DD</SectionId>
+		<SectionName>Understand fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>14</SubSectionId>
+		<SubSectionName>DD.14 Fractions of a group</SubSectionName>
+		<UrlKey>fractions-of-a-group-denominators-2-3-4-6-8</UrlKey>
+		<ResultsUrl>2020117517</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>DD</SectionId>
+		<SectionName>Understand fractions</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>15</SubSectionId>
+		<SubSectionName>DD.15 Write fractions using numbers and words</SubSectionName>
+		<UrlKey>write-fractions-using-numbers-and-words</UrlKey>
+		<ResultsUrl>2020043920</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>DD</SectionId>
+		<SectionName>Understand fractions</SectionName>
+		<Enabled>0</Enabled>
+		<SubSectionId>16</SubSectionId>
+		<SubSectionName>DD.16 Decompose fractions into unit fractions</SubSectionName>
+		<UrlKey>decompose-fractions-into-unit-fractions</UrlKey>
+		<ResultsUrl>2020006491</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>EE</SectionId>
+		<SectionName>Fractions on number lines</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>EE.1 Fractions of number lines: unit fractions</SubSectionName>
+		<UrlKey>fractions-of-number-lines-unit-fractions</UrlKey>
+		<ResultsUrl>2007000413</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>EE</SectionId>
+		<SectionName>Fractions on number lines</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>EE.2 Fractions of number lines: halves, fourths, and eighths</SubSectionName>
+		<UrlKey>fractions-of-number-lines-halves-fourths-and-eighths</UrlKey>
+		<ResultsUrl>2020037140</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>EE</SectionId>
+		<SectionName>Fractions on number lines</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>EE.3 Fractions of number lines</SubSectionName>
+		<UrlKey>fractions-of-number-lines</UrlKey>
+		<ResultsUrl>2007000414</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>EE</SectionId>
+		<SectionName>Fractions on number lines</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>EE.4 Identify unit fractions on number lines</SubSectionName>
+		<UrlKey>identify-unit-fractions-on-number-lines</UrlKey>
+		<ResultsUrl>2007000417</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>EE</SectionId>
+		<SectionName>Fractions on number lines</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>EE.5 Identify fractions on number lines</SubSectionName>
+		<UrlKey>identify-fractions-on-number-lines</UrlKey>
+		<ResultsUrl>2001000340</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>EE</SectionId>
+		<SectionName>Fractions on number lines</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>EE.6 Graph unit fractions on number lines</SubSectionName>
+		<UrlKey>graph-unit-fractions-on-number-lines</UrlKey>
+		<ResultsUrl>2007000498</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>EE</SectionId>
+		<SectionName>Fractions on number lines</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>EE.7 Graph fractions less than 1 on number lines</SubSectionName>
+		<UrlKey>graph-fractions-less-than-1-on-number-lines</UrlKey>
+		<ResultsUrl>2020082717</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>EE</SectionId>
+		<SectionName>Fractions on number lines</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>EE.8 Graph fractions on number lines</SubSectionName>
+		<UrlKey>graph-fractions-on-number-lines</UrlKey>
+		<ResultsUrl>2007000500</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>EE</SectionId>
+		<SectionName>Fractions on number lines</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>9</SubSectionId>
+		<SubSectionName>EE.9 Graph smaller or larger fractions on a number line</SubSectionName>
+		<UrlKey>graph-smaller-or-larger-fractions-on-a-number-line</UrlKey>
+		<ResultsUrl>2009005249</ResultsUrl>
+	</Question>
+	<!-- FF -->
+	<!-- GG -->
+	<!-- HH -->
+	<!-- II -->
+	<!-- JJ -->
+	<!-- KK -->
+	<!-- LL -->
+	<!-- MM -->
+	<!-- NN -->
+	<!-- OO -->
+	<!-- PP -->
+	<!-- QQ -->
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>RR</SectionId>
+		<SectionName>Read and write times</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>RR.1 Match clocks and times</SubSectionName>
+		<UrlKey>match-clocks-and-times</UrlKey>
+		<ResultsUrl>2020008043</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>RR</SectionId>
+		<SectionName>Read and write times</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>RR.2 Match analog and digital clocks</SubSectionName>
+		<UrlKey>match-analog-and-digital-clocks</UrlKey>
+		<ResultsUrl>2020008044</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>RR</SectionId>
+		<SectionName>Read and write times</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>RR.3 Read clocks and write times</SubSectionName>
+		<UrlKey>read-clocks-and-write-times</UrlKey>
+		<ResultsUrl>2000001808</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>RR</SectionId>
+		<SectionName>Read and write times</SectionName>
+		<Enabled>3</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>RR.4 A.M. or P.M.</SubSectionName>
+		<UrlKey>am-or-pm</UrlKey>
+		<ResultsUrl>2007000997</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>RR</SectionId>
+		<SectionName>Read and write times</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>RR.5 Identify times written in words</SubSectionName>
+		<UrlKey>identify-times-written-in-words</UrlKey>
+		<ResultsUrl>2020008045</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>SS</SectionId>
+		<SectionName>Elapsed time</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>SS.1 Find the end time</SubSectionName>
+		<UrlKey>find-the-end-time</UrlKey>
+		<ResultsUrl>2000001809</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>SS</SectionId>
+		<SectionName>Elapsed time</SectionName>
+		<Enabled>3</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>SS.2 Find the elapsed time</SubSectionName>
+		<UrlKey>find-the-elapsed-time</UrlKey>
+		<ResultsUrl>2020042868</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>SS</SectionId>
+		<SectionName>Elapsed time</SectionName>
+		<Enabled>3</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>SS.3 Find the end time: word problems</SubSectionName>
+		<UrlKey>find-the-end-time-word-problems</UrlKey>
+		<ResultsUrl>2020033243</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>SS</SectionId>
+		<SectionName>Elapsed time</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>SS.4 Find the elapsed time: word problems</SubSectionName>
+		<UrlKey>find-the-elapsed-time-word-problems</UrlKey>
+		<ResultsUrl>2000001810</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>SS</SectionId>
+		<SectionName>Elapsed time</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>SS.5 Find start and end times: two-step word problems</SubSectionName>
+		<UrlKey>find-start-and-end-times-two-step-word-problems</UrlKey>
+		<ResultsUrl>2020042496</ResultsUrl>
+	</Question>
+	<!-- TT -->
+	<!-- UU -->
+	<!-- VV -->
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>WW</SectionId>
+		<SectionName>Money</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>1</SubSectionId>
+		<SubSectionName>WW.1 Count coins and bills - up to $5 bill</SubSectionName>
+		<UrlKey>count-coins-and-bills-up-to-5-dollar-bill</UrlKey>
+		<ResultsUrl>2000001797</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>WW</SectionId>
+		<SectionName>Money</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>2</SubSectionId>
+		<SubSectionName>WW.2 Count coins and bills word problems - up to $5 bill</SubSectionName>
+		<UrlKey>count-coins-and-bills-word-problems-up-to-5-dollar-bill</UrlKey>
+		<ResultsUrl>2020034508</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>WW</SectionId>
+		<SectionName>Money</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>3</SubSectionId>
+		<SubSectionName>WW.3 Purchases - do you have enough money - up to $10</SubSectionName>
+		<UrlKey>purchases-do-you-have-enough-money-up-to-10-dollars</UrlKey>
+		<ResultsUrl>2000001799</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>WW</SectionId>
+		<SectionName>Money</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>4</SubSectionId>
+		<SubSectionName>WW.4 Which picture shows more?</SubSectionName>
+		<UrlKey>which-picture-shows-more</UrlKey>
+		<ResultsUrl>2000001798</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>WW</SectionId>
+		<SectionName>Money</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>5</SubSectionId>
+		<SubSectionName>WW.5 Correct amount of change</SubSectionName>
+		<UrlKey>correct-amount-of-change</UrlKey>
+		<ResultsUrl>2020034511</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>WW</SectionId>
+		<SectionName>Money</SectionName>
+		<Enabled>3</Enabled>
+		<SubSectionId>6</SubSectionId>
+		<SubSectionName>WW.6 Making change</SubSectionName>
+		<UrlKey>making-change</UrlKey>
+		<ResultsUrl>2000001800</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>WW</SectionId>
+		<SectionName>Money</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>7</SubSectionId>
+		<SubSectionName>WW.7 Inequalities with money</SubSectionName>
+		<UrlKey>inequalities-with-money</UrlKey>
+		<ResultsUrl>2000001801</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>WW</SectionId>
+		<SectionName>Money</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>8</SubSectionId>
+		<SubSectionName>WW.8 Put money amounts in order</SubSectionName>
+		<UrlKey>put-money-amounts-in-order</UrlKey>
+		<ResultsUrl>2000001802</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>WW</SectionId>
+		<SectionName>Money</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>9</SubSectionId>
+		<SubSectionName>WW.9 Add and subtract money amounts</SubSectionName>
+		<UrlKey>add-and-subtract-money-amounts</UrlKey>
+		<ResultsUrl>2000001803</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>WW</SectionId>
+		<SectionName>Money</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>10</SubSectionId>
+		<SubSectionName>WW.10 Add money amounts - word problems</SubSectionName>
+		<UrlKey>add-money-amounts-word-problems</UrlKey>
+		<ResultsUrl>2000001804</ResultsUrl>
+	</Question>
+	<Question>
+		<Subject>Math</Subject>
+		<Grade>3</Grade>
+		<SectionId>WW</SectionId>
+		<SectionName>Money</SectionName>
+		<Enabled>1</Enabled>
+		<SubSectionId>11</SubSectionId>
+		<SubSectionName>WW.11 Price lists</SubSectionName>
+		<UrlKey>price-lists</UrlKey>
+		<ResultsUrl>2000001805</ResultsUrl>
+	</Question>
+</Questions>
