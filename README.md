@@ -11,4 +11,5 @@ destination.path=/Users/konaki/work/z_personal/myeclipse/anish-project-new-dst-f
 current.tests.anish=3#8
 current.tests.ishant=50#54
 # current tests End
+C:\\home_work\\kids\\practice\\anish-project-new-dst-files\\data\\
 
